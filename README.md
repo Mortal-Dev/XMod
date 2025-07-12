@@ -15,7 +15,7 @@
 - **3D Audio Support**  
   Automatically follow GameObjects for spatialized sound playback.
 
-- 🎛**Channel Grouping**  
+- **Channel Grouping**  
   Organize and control related sounds using named FMOD channel groups.
 
 - **Auto Cleanup**  
